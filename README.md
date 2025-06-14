@@ -1,6 +1,7 @@
 # second_project
+# conflict2
 adsfasdf
 asdfadfasdf
 different
 final change
-and one more 
+also final change
