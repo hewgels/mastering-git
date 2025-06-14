@@ -2,5 +2,5 @@
 # conflict2
 adsfasdf
 asdfadfasdf
-different
-final change
+also different
+also final change
